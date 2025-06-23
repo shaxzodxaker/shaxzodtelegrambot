@@ -4,7 +4,7 @@ from aiogram.filters.command import Command
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton, WebAppInfo
 from aiohttp import web
 
-API_TOKEN = '7994026992:AAEyeCXDbh6b-t0EZEnmGGhTBx9vIeoz8-U'
+API_TOKEN = '7716387026:AAGTl7Crv_fDvQO4a5Wh38FX694aiG6vqTg'
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher()
 
